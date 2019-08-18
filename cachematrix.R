@@ -1,6 +1,6 @@
 ## makeCacheMatrix is a function that creates a special "matrix" object that can cache the inverse of a given matrix.
 ## cacheSolve is a function that computes the inverse of the matrix specified in the makeCacheMatrix function argument
-## or,if the inverse value already exists, it displays it cached value.
+## or,if the inverse value already exists, it displays it cached value. Cristobal Ceron. 8/18/2019
 
 ## Creates "matrix" object with the ability to cache the value of the inverse of a given matrix.
 
